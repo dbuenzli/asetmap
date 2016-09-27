@@ -7,7 +7,7 @@ functors. asetmap tries to maximize compatibility with the standard
 library. It essentially gets rid of `Not_found` exceptions and provide
 pretty-printers for the data types.
 
-asetmap has no dependency is distributed under the ISC license.
+asetmap has no dependency and is distributed under the ISC license.
 
 Homepage: http://erratique.ch/software/asetmap  
 
